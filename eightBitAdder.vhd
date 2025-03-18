@@ -1,18 +1,3 @@
---------------------------------------------------------------------------------
--- Title         : 8-bit Adder
--- Project       : VHDL Synthesis Overview
--------------------------------------------------------------------------------
--- File          : eightBitAdder.vhd
--- Author        : Nelson Wang  <nwang027@uottawa.ca>
--- Created       : 2023/05/18
--- Last modified : 2023/05/21
--------------------------------------------------------------------------------
--- Description : This file creates a 8-bit binary full adder as defined in the VHDL
---		 Synthesis lecture.  The architecture is done at the RTL
---		 abstraction level and the implementation is done in structural
---		 VHDL.
--------------------------------------------------------------------------------
-
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;
 
